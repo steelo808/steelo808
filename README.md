@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 📝 I regularly write articles on [Medium(Coming soon...)](Medium(Coming soon...))
+- 📝 I regularly write articles on Medium check it out here! https://medium.com/@sterlingnewsom808
 
 - 💬 Ask me about **Javascript, HTML, CSS, Frontend, Backend**
 
