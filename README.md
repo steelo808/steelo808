@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 📝 I regularly write articles on Medium check it out here! https://medium.com/@sterlingnewsom808
+- 📝 I write articles on Medium check it out here! https://medium.com/@sterlingnewsom808
 
 - 💬 Ask me about **Javascript, HTML, CSS, Frontend, Backend**
 
@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steelo808&show_icons=true&locale=en" alt="steelo808" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steelo808&" alt="steelo808" /></p>
