@@ -1,13 +1,13 @@
 ![MasterHead](https://i.gifer.com/LsZ0.gif)
 <h1 align="center">Hi 👋, I'm Sterling Newsom</h1>
-<h3 align="center">A passionate fullstack developer from Rochester, NY</h3>
+<h3 align="center">A passionate Software Developer from Rochester, NY</h3>
 
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steelo808" alt="steelo808" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack Development**
+- 🌱 I’m currently learning **PYTHON**
 
 - 📝 I regularly write articles on Medium check it out here! https://medium.com/@sterlingnewsom808
 
